@@ -1,6 +1,6 @@
 # Documentation
 
-This folder contains the written case-study documentation for the project.
+This folder contains the written documentation for the project.
 
 Suggested contents include:
 - project overview
